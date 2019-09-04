@@ -1,2 +1,2 @@
 # DemoRESTBase64
-<h1>Simples implementação de imagem em base64 com Rest</h1>
+<h3>Simples implementação Rest/Json com imagem em base64</h3>
